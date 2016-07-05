@@ -2,7 +2,7 @@
 
 Returns random service from consul requested by name
 
-## Usage
+### Usage
 
 When one call:
 
@@ -21,3 +21,4 @@ Requesting: http://demo.consul.io...
 Where:
 - **demo.consul.io** is Consul url: http://demo.consul.io
 - **redis** is a service available in Consul
+
